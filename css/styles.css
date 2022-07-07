@@ -1,0 +1,23 @@
+/* Fonts
+===============================*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital@1&display=swap');
+
+/* Styles
+===============================*/
+body {
+  background-color: #ffffba;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  color: red;
+}
+
+p {
+  font-family: 'Finlandica', sans-serif;
+}
+
+a {
+  color: blue;
+}
